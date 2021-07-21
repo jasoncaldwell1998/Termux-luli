@@ -1,0 +1,1137 @@
+The Crypter Handbook - Make your own FUD Crypter
+
+CYBERSEAL CRYPTER
+
+MAIL ACCESS CHECKER
+
+BLACK WINDOWS 10 V2
+
+GOLD DOX TOOL V12
+
+CERBERUS V2 + SOURCE CODE
+
+SSEUR REMOTE KEYLOGGER
+
+SPYMAX V2.0 [ANDROID RAT] [UPDATED]
+
+Black Stealer (BitCoin Stealer)
+
+WAR BOTNET
+
+AsyncRAT v0.5.7B
+
+PUBG UC LOADER SCRIPT V1.7
+
+FAKE SMS BOMBER|SMS BLASTER |FAKE SMS SENDER
+
+USSD SENDER HACKTOOL V1.2 SEND USSD MESSAGES TO ANY PHONE
+
+BITCOIN STEALER 4.3
+
+
+bomber.php
+
+Cloudflare Resolver.php
+
+com_jce.php
+
+com_user vulnerability scanner.php
+
+comuser.php
+
+connect_tools.php
+
+Convert PHP Shell to PNG or GIF.php
+
+don3.php
+
+dork scanner.php
+
+down.php
+
+facebook colour text generator.php
+
+geo.php
+
+gmail bruteforcer.php
+
+google.php
+
+index.php
+
+killer3n.php
+
+logs.php
+
+m_killer3.php
+
+m_mannu.php
+
+MadLeets Mail Bomber.php
+
+madspotshell.php
+
+Mailer.php
+
+mailm.php
+
+mannu.php
+
+Massdeface.php
+
+MySQL Web Interface.php
+
+netflix.php
+
+PasswordHash.php
+
+post.php
+
+Proxy Blocker Block Proxies EFFECTIVLY.php
+
+rootdevil.php
+
+scaner.php
+
+slowloris shell.php
+
+Slowloris.php
+
+smtp_sending.php
+
+SQLi Google Scanner & MySQLi Dumper PHP IRC BOT.ph
+
+Sym.php
+
+tez.php
+
+web vulnerability scanner.php
+
+Website vulnerable scanner Tools.php
+
+www.checksite.us.php
+
+xsschallenge3.php
+
+[PHP] FTP + Cpanel.txt
+
+CloudFlare IP Resolver by Phizo.txt
+
+cpanel brute force ~ expl0it.txt
+
+fake mailer by syahmie == www.facebook.com_moneyca
+
+infamousbytes.txt
+
+joomla and wordpress mass defacer_v2.txt
+
+k2_component_category_selection_custom_field-_joom
+
+mass_mailer.txt
+
+mobile device detection.txt
+
+multI_cpanel_username_scraper_+_brute_forcer_wIth_
+
+name availability checker.txt
+
+new_header_checks.txt
+
+paypal valid email checker.txt
+
+php_wallbase_random_wallpaper_downloader.txt
+
+script_ascii_art.txt
+
+silent poison by team indishell.txt
+
+silent poison edited by m0bil3.txt
+
+url_find_[php_engine].txt
+
+yYJ4Urhr.txt
+
+------------------------------------------------
+
+AnonGhost Shell.php
+
+anonymous.php
+
+antichat.php
+
+b374k-2.8.php
+
+b374k-2.8.source.php
+
+c100.php
+
+c99.php
+
+c999.php
+
+cgi.php
+
+cmd.php
+
+CWShellDumper.php
+
+ekin0x.php
+
+erne.php
+
+fso.php
+
+itsecteam_shell.php
+
+Jackal v1.9.php
+
+kacak.php
+
+liz0zim.php
+
+login.php
+
+Moroccan Spamers Ma-EditioN By GhOsT.php
+
+NIX REMOTE WEB-SHELL v.0.5 alpha Lite Public Versi
+
+r57.php
+
+safe0ver.php
+
+simattacker.php
+
+sosyete.php
+
+stres.php
+
+SyRiAn Sh3ll V7.php
+
+Botnets.rar
+
+php-dos-attacker-1.2b.rar
+
+preDict.rar
+
+wordpress-password-cracker.rar
+
+529.txt
+
+anonghost_bypass_shell--decoded.txt
+
+anonghost_shell_priv8.txt
+
+antichat.txt
+
+Antichat_Shell_v1.3.txt
+
+aspx.txt
+
+aspydrv.txt
+
+Ayyildiz_Tim_AYT_Shell_v 2.1_Biz.txt
+
+backupsql.txt
+
+beyaz_hacker.txt
+
+bypass.txt
+
+bypass_shell_2013_priv8.txt
+
+c100(1).txt
+
+c100.txt
+
+c99.txt
+
+c99ud.txt
+
+cgi.txt
+
+cmd.txt
+
+cpanel.txt
+
+Crystal.txt
+
+ctt_sh.txt
+
+cw.txt
+
+CWShellDumper.txt
+
+cybershell.txt
+
+dC3_Security_Crew_Shell_PRiV.txt
+
+Dive_Shell_1.0_Emperor_Hacking_Team.txt
+
+dq.txt
+
+Dx.txt
+
+ekin0x.txt
+
+erne.txt
+
+ex0shell.txt
+
+fso.txt
+
+ftpsearch.txt
+
+GFS web-shell ver 3.1.7 - PRiV8.txt
+
+gfs_sh.txt
+
+h4ntu shell [powered by tsoi].txt
+
+hxpshell.txt
+
+ironshell.txt
+
+isko.txt
+
+JspWebshell 1.2.txt
+
+ka0s_over.txt
+
+kacak.txt
+
+KAdot Universal Shell v0.1.6.txt
+
+kral.txt
+
+lamashell.txt
+
+Liz0ziM Private Safe Mode.txt
+
+liz0zim.txt
+
+load_shell.txt
+
+login.txt
+
+lolipop.txt
+
+magiccoder.txt
+
+mass.txt
+
+matamu.txt
+
+megabor.txt
+
+Moroccan Spamers Ma-EditioN By GhOsT.txt
+
+Mysql interface v1.0.txt
+
+MySQL Web Interface Version 0.8.txt
+
+mysql.txt
+
+mysql_tool.txt
+
+NCC-Shell.txt
+
+NetworkFileManagerPHP.txt
+
+NIX REMOTE WEB-SHELL v.0.5 alpha Lite Public Versi
+
+nst.txt
+
+nstview.txt
+
+PH Vayv.txt
+
+PHANTASMA.txt
+
+php-include-w-shell.txt
+
+Private-i3lue.txt
+
+pws.txt
+
+r57(1).txt
+
+r57.txt
+
+r57shell.txt
+
+r57shell1.40.txt
+
+rootshell.txt
+
+ru24_post_sh.txt
+
+s72 Shell v1.1 Coding.txt
+
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.txt
+
+safe0ver(1).txt
+
+safe0ver.txt
+
+saudi_sh3ll_v1.0.txt
+
+shellzx.txt
+
+simattacker(1).txt
+
+simattacker.txt
+
+Simple PHP backdoor by DK.txt
+
+simple_cmd.txt
+
+SimShell 1.0 - Simorgh Security MGZ.txt
+
+small.txt
+
+sosyete(1).txt
+
+sosyete.txt
+
+spygrup.txt
+
+stres.txt
+
+telnet.txt
+
+tryag.txt
+
+tryag1.txt
+
+udp_shell.txt
+
+Uploader.txt
+
+zaco.txt
+
+zacosmall.txt
+
+zehir4.txt
+
+zone.txt
+
+--------------------------------------------------
+
+PHP Shells: DOSER
+
+--------------------------------------------------
+
+Green Shell (UDP).php
+
+Post DOS (TCP).php
+
+Slowloris.php
+
+ddos_v2.txt
+
+mass_shell_checker_-_coded_by_kurosaki.txt
+
+new_-_udp.txt
+
+script_dos_php.txt
+
+simpliest php dos.txt
+
+SQL Injection Server ScaNNer.txt
+
+UDPFLOOD.txt
+
+--------------------------------------------------
+
+PHP Shells: Misc Script
+
+--------------------------------------------------
+
+admin page finder.php
+
+Bing Subdomain Scanner CLI.php
+
+Bing Subdomain Scanner WebBased.php
+
+BinusHacker Mailer.php
+
+bomber.php
+
+Cloudflare Resolver.php
+
+com_jce.php
+
+com_user vulnerability scanner.php
+
+comuser.php
+
+connect_tools.php
+
+Convert PHP Shell to PNG or GIF.php
+
+don3.php
+
+dork scanner.php
+
+down.php
+
+facebook colour text generator.php
+
+geo.php
+
+gmail bruteforcer.php
+
+google.php
+
+index.php
+
+killer3n.php
+
+logs.php
+
+m_killer3.php
+
+m_mannu.php
+
+MadLeets Mail Bomber.php
+
+madspotshell.php
+
+Mailer.php
+
+mailm.php
+
+mannu.php
+
+Massdeface.php
+
+MySQL Web Interface.php
+
+netflix.php
+
+PasswordHash.php
+
+post.php
+
+Proxy Blocker Block Proxies EFFECTIVLY.php
+
+rootdevil.php
+
+scaner.php
+
+slowloris shell.php
+
+Slowloris.php
+
+smtp_sending.php
+
+SQLi Google Scanner & MySQLi Dumper PHP IRC BOT.ph
+
+Sym.php
+
+tez.php
+
+web vulnerability scanner.php
+
+Website vulnerable scanner Tools.php
+
+www.checksite.us.php
+
+xsschallenge3.php
+
+[PHP] FTP + Cpanel.txt
+
+CloudFlare IP Resolver by Phizo.txt
+
+cpanel brute force ~ expl0it.txt
+
+fake mailer by syahmie == www.facebook.com_moneyca
+
+infamousbytes.txt
+
+joomla and wordpress mass defacer_v2.txt
+
+k2_component_category_selection_custom_field-_joom
+
+mass_mailer.txt
+
+mobile device detection.txt
+
+multI_cpanel_username_scraper_+_brute_forcer_wIth_
+
+name availability checker.txt
+
+new_header_checks.txt
+
+paypal valid email checker.txt
+
+php_wallbase_random_wallpaper_downloader.txt
+
+script_ascii_art.txt
+
+silent poison by team indishell.txt
+
+silent poison edited by m0bil3.txt
+
+url_find_[php_engine].txt
+
+yYJ4Urhr.txt
+
+--------------------------------------------------
+
+Python
+
+--------------------------------------------------
+
+adm_pagefinder.py
+
+adminfinder.py
+
+Bing LFI-RFI Searcher.py
+
+com_user server scanner.py
+
+com_user.py
+
+ddos.py
+
+Dequiem2.0.py
+
+Email Spoofing.py
+
+findip.py
+
+findmyhash.py
+
+help.py
+
+hulk.py
+
+jce.py
+
+jce_scanner.py
+
+main.py
+
+pastebin_upload.py
+
+patator_v0.5.py
+
+PHPbb Bruteforcer.py
+
+portscan.py
+
+Proxy_finder.py
+
+pyagent_user_agent_generator.py
+
+pycrack_md5_hash_cracker_(python_2.7.5).py
+
+pycrack_md5_hash_cracker_(python_3.3.2).py
+
+pyflood_dos_flooder_(syn_tcp_udp).py
+
+python___secure_password_generator.py
+
+python_elmasry_mail_sender.py
+
+python_flash_card_quizzer.py
+
+python_sql,rfi,lfi.py
+
+recipe-473869-1.py
+
+scriptfinder.py
+
+shellfinder.py
+
+SQLi.py
+
+suram.py
+
+togel.py
+
+tumblr.py
+
+V3n0MScanner-smartd0rk3r.py
+
+v3n0m-v.0.1.py
+
+WebAdminLoginFinder v2.1.py
+
+wifite.py
+
+XSS SQLi LFI RFI cmd scanner .py
+
+facebook.rar
+
+password_generator_-_python.txt
+
+pastebin_python.txt
+
+pyomegle2_v2.txt
+
+xparadox's_uk_sms_bomber.txt
+
+
+
+-ARPwner-master
+
+-faraday-master
+
+-GooDork-master
+
+-ntpdos-master
+
+-PACK-0.0.3
+
+-PyInstaller-2.1
+
+-pylunch
+
+-pysqli-master
+
+-r-u-dead-yet
+
+-ShellDetect
+
+-tool
+
+-tor
+
+
+
+____________________________________________________________
+
+#Tools
+
+____________________________________________________________
+
+--------------------------------------------------
+
+Admin Page - Login Page Scanner
+
+--------------------------------------------------
+
+
+
+
+
+admin.pl
+
+Admin_Locate.pl
+
+APF.pl
+
+Admin_Locate.py
+
+--------------------------------------------------
+
+Crypters and Binders
+
+--------------------------------------------------
+
+0 Crypter .rar
+
+2012 Crypter.rar
+
+Black-Crypt.rar
+
+Byte Crypter V3.rar
+
+Chrome Crypter 4.9.rar
+
+CrypteX Advanced.rar
+
+DarkBinderV1.rar
+
+Easy Binder.rar
+
+Entropy_v5u2.rar
+
+Grieve Crypter 2012.rar
+
+High Life Crypter.rar
+
+iBinder.rar
+
+Infinity Crypter v2.rar
+
+jCrypt.rar
+
+MAXACryptPortable.rar
+
+MoonCrypter.rar
+
+nBinder V 5.5.rar
+
+no$crypter.rar
+
+OwnZ Crypter 3.5.9.rar
+
+Psomasweb_Public_Rinajel_Crypter.rar
+
+Quest Crypter.rar
+
+RedLions Binder.rar
+
+Refacts Crypter.rar
+
+Saddam Crypter.rar
+
+Shock Labs File Binder v1.0.rar
+
+Sikandar Crypter.rar
+
+SImple Crypt0r v2.rar
+
+The DarKness binDer.rar
+
+uBinder.rar
+
+UltimateLogger.rar
+
+Unknow Crypter Private.rar
+
+ZMini.rar
+
+--------------------------------------------------
+
+Crypto
+
+--------------------------------------------------
+
+BulkMD5PasswordCracker.rar
+
+BulkSHA1PasswordCracker.rar
+
+ChromePasswordDecryptor.rar
+
+HA CRYPTO V1.0.rar
+
+Hash Analyzer 1.0.rar
+
+MAXACryptPortable-maxa-tools.com.paf.rar
+
+md5 tools.rar
+
+MD5SaltedHashKracker.rar
+
+mdbruterzip20040221-1.rar
+
+MDcrack EasyLoader.rar
+
+mdcrack-1.2.rar
+
+mdcrackphpfe.rar
+
+NullAddFrontend.rar
+
+passwordspro.rar
+
+rainbowcrack-1.5-win32.rar
+
+SHA256SaltedHashKracker.rar
+
+SHThashCracker.rar
+
+--------------------------------------------------
+
+Dork Scanner
+
+--------------------------------------------------
+
+Dork Searcher Setup v1091.rar
+
+DorkToolsV.5.0.rar
+
+Google_URL_Extractor_Version_1.1.rar
+
+Mass Dork Scanner v1.0.0.1.rar
+
+--------------------------------------------------
+
+DOS _ DDOSER _ FLOODER
+
+--------------------------------------------------
+
+DaRKDDoSeR+5.6.rar
+
+IPKILLER 2.rar
+
+udpflood.rar
+
+War Flooder.rar
+
+--------------------------------------------------
+
+Keyloggers
+
+--------------------------------------------------
+
+007 keylogger.rar
+
+Anonymous Keylogger.rar
+
+Ardamax 2.8.rar
+
+Ardamax 3.0.rar
+
+Ardamax Keylogger remover.rar
+
+Digital_Keylogger_v3.3.rar
+
+Dracula Logger.rar
+
+PoisonLogger.rar
+
+Project Neptune v1.78.rar
+
+Project Neptune v2.0.rar
+
+RapZo Logger v 1.5 ( Public Edition ).rar
+
+RinLogger.rar
+
+Silent Keylogger v1.6 Public Version By BUNNN.rar
+
+Syslogger.rar
+
+UltimateLogger.rar
+
+Unknown Logger Public V 1.5.rar
+
+--------------------------------------------------
+
+RATs
+
+--------------------------------------------------
+
+Blackshades Public Edition.rar
+
+Blackshades v 5.4 Private.rar
+
+Cybergate 1.8.rar
+
+Darkcomet 5.3.1 + Remover.rar
+
+Darkcomet 5.3.1.rar
+
+DarkComet Legacy.rar
+
+jRat.rar
+
+Loki Rat.rar
+
+Paradox RAT.rar
+
+Xtreme Rat v2.7.rar
+
+XtremeRat 3.5.rar
+
+--------------------------------------------------
+
+Vulnerable Scanner
+
+--------------------------------------------------
+
+Acunetix Web Vulnerability Scanner 7.0 [vokeon].ra
+
+Explode Web Scanner.rar
+
+Fiddler Web Debugger Setup.rar
+
+Gr3eNoX LFi Exploiter.rar
+
+Havij 1.152 Pro Edition.rar
+
+Iron Web application Advanced Security testing Pla
+
+Multi-Vuln-Checker-2014-By-P.S.rar
+
+nmap-6.40-setup.rar
+
+Vuln_Hunter_2014.rar
+
+vulnerability master 1.0.rar
+
+wapiti-2.3.0-win32-standalone.rar
+
+WebCruiser.rar
+
+WebCruiserPro.rar
+
+Websecurity Scanner 0.9.rar
+
+WebSurgery-Setup-1.1.1.rar
+
+--------------------------------------------------
+
+Vulnerable Scanner\#SQLi Tools
+
+--------------------------------------------------
+
+Ashiyane SQL Scanner v1.2.0.rar
+
+dorkinj.rar
+
+Injection Framework - Automatized Sql Injection To
+
+JSQL-Injection.rar
+
+SQL Exploiter Pro v2.10.rar
+
+SQL Helper.rar
+
+SQLI-Hunter_v1.1.rar
+
+SQLI-Hunter_v1.2.rar
+
+SQL-Inject-Me-master.rar
+
+sqlmap_win_v01.rar
+
+sqlmap-0.9.rar
+
+sqlninja-0.2.6-r1.rar
+
+SQLSentinel_v_0.3.rar
+
+Warbot VersaoSQL Tool v1.0 Alpha Build 6.rar
+
+XCodeExploitScannerSept2011.rar
+
+xSQL SCanner.rar
+
+--------------------------------------------------
+
+Others
+
+--------------------------------------------------
+
+#.rar
+
+Black File Pumper 1.0.rar
+
+Black_Batcher_v3.rar
+
+Cain & Abel Setup 4.9.50.rar
+
+Dedi Exploiter V2.rar
+
+DoX Manager.rar
+
+Doxer.rar
+
+exploit packs.rar
+
+Google Proxy Checker Final Setup.rar
+
+Icon Changer.rar
+
+InfamousTool.rar
+
+InfiniteBulkMailer.rar
+
+Ip-Tracer.rar
+
+Kon Boot.rar
+
+MayDay.rar
+
+NetDatabaseScanner.rar
+
+NetTools5.0.70.rar
+
+Proxy.Goblin.2.5.9.1.rar
+
+QHackBox.rar
+
+Shell Checker.rar
+
+Spider Mail.rar
+
+Themeforest.rar
+
+Tiger Bot Cracked by IoY.rar
+
+ToolBox v1.2.rar
+
+Ultimate Virus Builder.rar
+
+xtscrack-1.0.rar
+
+Youtube Stuff.rar
+
+Havij
+
+NetDatabaseScanner
+Open Web Spider
+Quick Web
+Site Hog
+Snippets Manager
+Spider Mail
+SQL Injection
+SQL Map Project
+The Mole ZeroTeam™ MD5 Password Encryptor
+Acunetix Web Vulnerability Scanner
+Advanced Deface Creator 1.3
+Anonymous DNS Extractor-2013
+Anonymous FTP Stealer
+Anonymous Text Encrypter
+Anonymous Tinypaste Uploader
+Ashiyane SQL Scanner
+Base64 Image Encoder-Decoder
+BTI Admin Page Finder v2
+BTI HTML Encoder-Decoder
+BTI Multi Site Checker
+BTI Reverse IP Domain Check v2
+ChromePasswordDecryptor
+CSS Minifier v2
+Deface Page Created
+Dork Searcher Setup v1091
+dorkinj
+DorkTools
+Eternals WebBrowser
+Explode Web Scanner
+ezDataBase_Defacer
+Fiddler Web Debugger Setup
+Gklspy
+Google URL Extractor
+Gr3eNoX LFi Exploiter
+Hacker’s Browser v2.0
+Injection Framework – Automatized Sql 
+Injection Tool
+Iron Web application Advanced Security 
+testing Platform
+Joomla Security Scanner
+JSQL-Injection
+Mass Dork Scanner v1.0.0.1
+Multi Vuln Checker
+nmap
+Spider Mail
+SQL Exploiter Pro v2.10
+SQL Helper
+SQLI-Hunter_v1.1
+SQLI-Hunter_v1.2
+SQL-Inject-Me-master
+sqlmap_win_v01
+sqlmap-0.9
+sqlninja-0.2.6-r1
+SQLSentinel_v_0.3
+Surf Excuse
+Survey Bypasser
+Tiny URL Shortener
+Vulcan Cleaner
+Vuln Hunter
+vulnerability master
+wapiti-2.3.0-win32-standalone
+Warbot VersaoSQL Tool v1.0 Alpha Build 6
+Web Source Tools
+WebCruiser
+WebCruiserPro
+Websecurity Scanner 0.9
+Website Blocker v2
+WebSurgery-Setup-1.1.1
+XCodeExploitScannerSept
+xSQL SCann
